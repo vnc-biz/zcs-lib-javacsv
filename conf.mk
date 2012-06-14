@@ -1,0 +1,10 @@
+VERSION=2.0.0.1
+PACKAGE=zcs-lib-javacsv
+MAINTAINER=Enrico Weigelt <enrico.weigelt@vnc.biz>
+SECTION=base
+ARCHITECTURE=All
+PRIORITY=optional
+DEPENDS=
+DESCRIPTION=Java CSV library
+REDMINE_UPLOAD_PROJECT=zcs-lib-javacsv
+REDMINE_UPLOAD_URL=https://redmine.vnc.biz/redmine/

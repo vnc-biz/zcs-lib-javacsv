@@ -1,0 +1,5 @@
+*.deb
+/image/
+/src/zcs-lib-javacsv/classes/
+/src/zcs-lib-javacsv/zcs-lib-javacsv.jar
+/zimlets.list
